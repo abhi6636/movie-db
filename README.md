@@ -1,19 +1,5 @@
 # 🎬 MovieDB - Animated Movie Database
 
-A beautiful, animated movie database website built with React, Vite, TypeScript, and SCSS. Features rich animations, colorful movie cards, animated search with suggestions, and a Cupertino-style theme toggle.
-
-## ✨ Features
-
-- 🎨 **Beautiful Animations**: Smooth transitions and micro-interactions throughout
-- 🌈 **Colorful Movie Cards**: Each card has unique gradient backgrounds
-- 🔍 **Animated Search Bar**: Real-time search with dropdown suggestions
-- 🌙 **Dark/Light Mode**: Cupertino-style toggle with smooth transitions
-- 📱 **Fully Responsive**: Works perfectly on all screen sizes
-- 🎬 **Movie Categories**: Browse trending, popular, top-rated, and upcoming movies
-- 🎭 **Detailed Modals**: Click any movie to see detailed information
-
-## 🚀 Getting Started
-
 ### Prerequisites
 
 - Node.js (v18 or higher)
@@ -23,7 +9,7 @@ A beautiful, animated movie database website built with React, Vite, TypeScript,
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/abhi6636/movie-db
 cd movie-db
 ```
 
